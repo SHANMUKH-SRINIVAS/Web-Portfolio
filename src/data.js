@@ -24,18 +24,7 @@ export const experience = [
       'Improved performance and accessibility across the product suite.',
       'Collaborated with design and backend teams in an agile setup.',
     ],
-  },
-  {
-    id: 2,
-    role: 'Junior Developer / Intern',
-    company: 'Previous Company',
-    period: '2022 – 2023',
-    location: 'City, Country',
-    points: [
-      'Developed features for internal tools and customer-facing dashboards.',
-      'Wrote tests and documentation for key modules.',
-    ],
-  },
+  }
 ]
 
 export const education = [
