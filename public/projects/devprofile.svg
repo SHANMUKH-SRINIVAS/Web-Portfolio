@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="DevProfile (GitLens) - GitHub Profile Finder thumbnail">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#171334"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="25%" cy="18%" r="60%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="82%" cy="22%" r="55%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#glow1)"/>
+  <rect width="1200" height="675" fill="url(#glow2)"/>
+
+  <g opacity="0.25">
+    <circle cx="1010" cy="560" r="150" fill="#22c55e"/>
+    <circle cx="1010" cy="560" r="152" fill="none" stroke="#fff" stroke-opacity="0.12" stroke-width="2"/>
+    <circle cx="180" cy="560" r="170" fill="#7c3aed"/>
+    <circle cx="180" cy="560" r="172" fill="none" stroke="#fff" stroke-opacity="0.10" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="90" y="92" width="1020" height="491" rx="26" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.14)" stroke-width="2"/>
+    <rect x="130" y="140" width="780" height="58" rx="16" fill="rgba(0,0,0,0.22)" stroke="rgba(255,255,255,0.16)" stroke-width="2"/>
+    <circle cx="160" cy="169" r="12" fill="#7c3aed"/>
+    <circle cx="195" cy="169" r="12" fill="#22c55e"/>
+    <circle cx="230" cy="169" r="12" fill="rgba(255,255,255,0.35)"/>
+
+    <rect x="930" y="140" width="140" height="58" rx="16" fill="rgba(124,58,237,0.22)" stroke="rgba(124,58,237,0.55)" stroke-width="2"/>
+    <text x="1000" y="176" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" fill="rgba(255,255,255,0.92)">Search</text>
+
+    <rect x="130" y="228" width="320" height="320" rx="22" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)" stroke-width="2"/>
+    <rect x="470" y="228" width="600" height="320" rx="22" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)" stroke-width="2"/>
+
+    <circle cx="210" cy="312" r="44" fill="rgba(255,255,255,0.18)"/>
+    <rect x="270" y="286" width="150" height="14" rx="7" fill="rgba(255,255,255,0.26)"/>
+    <rect x="270" y="312" width="110" height="12" rx="6" fill="rgba(255,255,255,0.18)"/>
+
+    <rect x="490" y="254" width="90" height="18" rx="9" fill="rgba(255,255,255,0.14)"/>
+    <rect x="590" y="254" width="105" height="18" rx="9" fill="rgba(255,255,255,0.14)"/>
+    <rect x="705" y="254" width="85" height="18" rx="9" fill="rgba(255,255,255,0.14)"/>
+    <rect x="490" y="290" width="540" height="14" rx="7" fill="rgba(255,255,255,0.18)"/>
+    <rect x="490" y="314" width="470" height="14" rx="7" fill="rgba(255,255,255,0.14)"/>
+    <rect x="490" y="352" width="560" height="74" rx="16" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+    <rect x="490" y="446" width="560" height="74" rx="16" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  </g>
+
+  <g>
+    <text x="90" y="56" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="22" fill="rgba(255,255,255,0.92)" font-weight="650">DevProfile</text>
+    <text x="224" y="56" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="14" fill="rgba(255,255,255,0.66)">GitLens / DevProfile " GitHub Profile Finder</text>
+
+    <text x="90" y="632" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="14" fill="rgba(255,255,255,0.65)">Search users " View repos " Stats " GitHub API</text>
+    <text x="1110" y="632" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="rgba(255,255,255,0.55)">Vite + React</text>
+  </g>
+</svg>
+

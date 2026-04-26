@@ -7,7 +7,7 @@ export const profile = {
   email: 'shanmukhsrinivas47@gmail.com',
   linkedin: 'www.linkedin.com/in/saladi-shanmukha-srinivas-7430241b3',
   github: 'https://github.com/SHANMUKH-SRINIVAS',
-  resumeUrl: '#', // link to PDF if you have one
+  resumeUrl: 'https://drive.google.com/file/d/1vh6F_71m8x6sD5PwTsT8WRF0mHw_hT7w/view?usp=sharing', // link to PDF if you have one
   about: `I build clean, accessible web experiences and love turning ideas into reality. 
     I focus on performance, UX, and maintainable code. When I'm not coding, I enjoy [sports].`,
 }
@@ -78,6 +78,16 @@ export const projects = [
   },
   {
     id: 3,
+    title: 'DevProfile (GitLens)',
+    description:
+      'GitHub Profile Finder: search users and view profile details, repos, stats, and API rate limits (with optional token support).',
+    tech: ['React', 'Vite', 'GitHub API'],
+    liveUrl: 'https://github-dev-profile-search.vercel.app/',
+    repoUrl: 'https://github.com/SHANMUKH-SRINIVAS/GitHUb-DevProfile_Search',
+    image: '/projects/devprofile.svg',
+  },
+  {
+    id: 4,
     title: 'Project Three',
     description: "Short description of what it does and who it's for.",
     tech: ['React', 'Node', 'MongoDB'],
