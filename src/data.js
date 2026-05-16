@@ -61,27 +61,18 @@ export const projects = [
     title: 'Portfolio Website',
     description: 'This portfolio — single-page site with smooth scroll and sections for projects, experience, and education.',
     tech: ['React', 'Vite', 'CSS'],
-    liveUrl: '#',
+    liveUrl: 'https://web-portfolio-git-main-shanmukhs-projects-e5732eeb.vercel.app/',
     repoUrl: 'https://github.com/yourusername/portfolio',
     image: null,
   },
   {
     id: 3,
-    title: 'GitHub Profile Serach',
+    title: 'GitHub Profile Search',
     description:
       'GitHub Profile Finder: search users and view profile details, repos, stats, and API rate limits (with optional token support).',
     tech: ['React', 'Vite', 'GitHub API'],
     liveUrl: 'https://github-dev-profile-search.vercel.app/',
     repoUrl: 'https://github.com/SHANMUKH-SRINIVAS/GitHUb-DevProfile_Search',
     image: '/projects/devprofile.svg',
-  },
-  {
-    id: 4,
-    title: 'Project Three',
-    description: "Short description of what it does and who it's for.",
-    tech: ['React', 'Node', 'MongoDB'],
-    liveUrl: 'https://your-project.com',
-    repoUrl: 'https://github.com/yourusername/project-three',
-    image: null,
-  },
+  }
 ]
