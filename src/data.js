@@ -60,11 +60,11 @@ export const education = [
 export const projects = [
   {
     id: 1,
-    title: 'News App',
-    description: 'React app to browse and search news with category filters and a clean, responsive UI.',
+    title: 'Expense tracker',
+    description: 'React app to Manage daily Expenses, responsive UI.',
     tech: ['React', 'Vite', 'CSS'],
-    liveUrl: 'https://your-news-app.netlify.app',
-    repoUrl: 'https://github.com/SHANMUKH-SRINIVAS/NEWS-APP',
+    liveUrl: 'https://expense-tracker-git-main-shanmukhs-projects-e5732eeb.vercel.app/',
+    repoUrl: 'https://github.com/SHANMUKH-SRINIVAS/Expense-Tracker',
     image: null, // optional: '/projects/news-app.png'
   },
   {
@@ -78,7 +78,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: 'DevProfile (GitLens)',
+    title: 'GitHub Profile Serach',
     description:
       'GitHub Profile Finder: search users and view profile details, repos, stats, and API rate limits (with optional token support).',
     tech: ['React', 'Vite', 'GitHub API'],
