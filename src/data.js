@@ -5,7 +5,7 @@ export const profile = {
   tagline: 'Full Stack Developer & Problem Solver',
   location: 'Tadepalligudem, India',
   email: 'shanmukhsrinivas47@gmail.com',
-  linkedin: 'www.linkedin.com/in/saladi-shanmukha-srinivas-7430241b3',
+  linkedin: 'https://www.linkedin.com/in/saladi-shanmukha-srinivas-7430241b3',
   github: 'https://github.com/SHANMUKH-SRINIVAS',
   resumeUrl: 'https://drive.google.com/file/d/1vh6F_71m8x6sD5PwTsT8WRF0mHw_hT7w/view?usp=sharing', // link to PDF if you have one
   about: `I build clean, accessible web experiences and love turning ideas into reality. 
