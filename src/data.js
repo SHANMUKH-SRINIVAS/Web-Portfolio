@@ -38,12 +38,20 @@ export const education = [
   },
   {
     id: 2,
-    degree: 'Certification or Course',
-    institution: 'Platform (e.g. Coursera, Udemy)',
-    period: '2023',
-    location: 'Online',
-    highlights: ['Topic or key takeaway'],
-  },
+    degree: 'Diploma in Electronics',
+    institution: 'Sri vasavi engineering college',
+    period: '2016 – 2019',
+    location: 'Pedatadepalli, India',
+   
+  }
+  // {
+  //   id: 2,
+  //   degree: 'Certification or Course',
+  //   institution: 'Platform (e.g. Coursera, Udemy)',
+  //   period: '2023',
+  //   location: 'Online',
+  //   highlights: ['Topic or key takeaway'],
+  // },
 ]
 
 export const projects = [
