@@ -54,7 +54,7 @@ export const projects = [
     tech: ['React', 'Vite', 'CSS'],
     liveUrl: 'https://expense-tracker-git-main-shanmukhs-projects-e5732eeb.vercel.app/',
     repoUrl: 'https://github.com/SHANMUKH-SRINIVAS/Expense-Tracker',
-    image: '/projects/Expensetracker.png', // optional: '/projects/news-app.png'
+    image: '/projects/ExpenseTracker.png', // optional: '/projects/news-app.png'
   },
   {
     id: 2,
@@ -63,7 +63,7 @@ export const projects = [
     tech: ['React', 'Vite', 'CSS'],
     liveUrl: 'https://web-portfolio-git-main-shanmukhs-projects-e5732eeb.vercel.app/',
     repoUrl: 'https://github.com/yourusername/portfolio',
-    image: '/projects/portfolio.png',
+    image: '/projects/Portfolio.png',
   },
   {
     id: 3,
