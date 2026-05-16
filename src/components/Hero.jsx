@@ -23,7 +23,7 @@ export default function Hero() {
         </div>
       </div>
       <div className="hero__scroll" aria-hidden="true">
-        <span>Scroll</span>
+      
         <div className="hero__scroll-line" />
       </div>
     </section>
