@@ -7,7 +7,7 @@ export const profile = {
   email: 'shanmukhsrinivas47@gmail.com',
   linkedin: 'https://www.linkedin.com/in/saladi-shanmukha-srinivas-7430241b3',
   github: 'https://github.com/SHANMUKH-SRINIVAS',
-  resumeUrl: 'https://drive.google.com/file/d/1vh6F_71m8x6sD5PwTsT8WRF0mHw_hT7w/view?usp=sharing', // link to PDF if you have one
+  resumeUrl: 'https://drive.google.com/file/d/1C1cPzBkE-g0gJPl5lli_pFP_3-O5x0Fp/view?usp=sharing', // link to PDF if you have one
   about: `I build clean, accessible web experiences and love turning ideas into reality. 
     I focus on performance, UX, and maintainable code. When I'm not coding, I enjoy [sports].`,
 }
