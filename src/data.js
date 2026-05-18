@@ -30,7 +30,7 @@ export const experience = [
 export const education = [
   {
     id: 1,
-    degree: 'B.Tech / B.E. in Electronics',
+    degree: 'B.Tech in Electronics',
     institution: 'Sri vasavi engineering college',
     period: '2019 – 2022',
     location: 'Pedatadepalli, India',
@@ -42,6 +42,14 @@ export const education = [
     institution: 'Sri vasavi engineering college',
     period: '2016 – 2019',
     location: 'Pedatadepalli, India',
+   
+  },
+  {
+    id: 3,
+    degree: 'Secondary Education (10th)',
+    institution: 'Vani Public School',
+    period: '2015 – 2016',
+    location: 'Tadepalligudem, India',
    
   }
   // {
