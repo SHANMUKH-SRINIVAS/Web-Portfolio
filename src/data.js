@@ -18,7 +18,7 @@ export const experience = [
     role: 'Full Stack Developer',
     company: 'Tata consultancy services',
     period: '2023 – Present',
-    location: 'Varanasi, India',
+    location: 'Hyderabad, India',
     points: [
       'Built and maintained React applications used by [X] users.',
       'Improved performance and accessibility across the product suite.',
